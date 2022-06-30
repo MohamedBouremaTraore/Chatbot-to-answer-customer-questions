@@ -11580,14 +11580,14 @@ body {
 
 
 .chatbox>* {
-  top: 300px;
+  top: 250px;
   position: fixed;
   overflow:auto;
   right: 10px;
 
 }
 .chatbox__button{
-  top:700px;
+  top:550px;
   text-align: right;
   position: fixed;
   right: 10px;
