@@ -13,7 +13,6 @@ Parmi les types de questions nous avons :
 #3 Des quetions à la finance : les réponses seront scrapées sur internet.
 
 Pour la construction du modèle, nous avons fait recours au NLP ainsi que Réseau de Neurone de propagation en avant.
-Pour l'application web nous avons fait récours au flask, bien vrai qu'il existe quantité d'autres technologies qui pouvaient etre utilisées. Cechoix est justifiée du fait 
-que le modèle est implementé en utilisant le python, donc histoire de rester dans le même bain.
+Pour l'application web nous avons fait récours au flask, bien vrai qu'il existe quantité d'autres technologies qui pouvaient être utilisées. Ce choix est justifiée du fait que le modèle est implementé en utilisant le python, donc histoire de rester dans le même bain.
 
 Le dossier screenshoot contient des images rélatives aux étapes du développement.
